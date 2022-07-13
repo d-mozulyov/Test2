@@ -1,0 +1,3 @@
+[submodule "dep1"]
+	path = dep1
+	url = https://github.com/d-mozulyov/Test1.git
